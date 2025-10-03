@@ -26,8 +26,7 @@
 --->
 
 ## 📫 Como me encontrar
-- 🌐 [LinkedIn](#)  
-- 💌 E-mail: [seuemail@email.com]  
+- 💌 E-mail: gilvancalegario@hotmail.com  
 <!--- 📂 Portfólio (se tiver site ou deploy no Vercel/Render)  
 
 --->
