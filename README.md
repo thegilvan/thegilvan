@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gilvan!
 
+💻 Desenvolvedor **Fullstack** com experiência em **JavaScript, HTML, CSS e Node.js**.  
+📊 Atualmente estudando **Python com foco em Machine Learning e Inteligência Artificial**.  
+🚀 Apaixonado por resolver problemas, construir projetos do zero e aprender novas tecnologias.  
+
+---
+
+## 🔧 Tecnologias & Ferramentas
+- **Frontend:** HTML5 | CSS3 | JavaScript | React (em aprendizado)  
+- **Backend:** Node.js
+- **Banco de Dados:** PostgreSQL  
+- **Python & Data:** Pandas | NumPy | Scikit-learn (aprendizado em andamento)  
+- **Outros:** Git/GitHub | Docker (básico)  
+
+---
 <!--
-**thegilvan/thegilvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Projetos em Destaque
+- 📝 [To-do List Fullstack](#) → CRUD com autenticação e banco de dados.  
+- 🎬 [API de Catálogo de Filmes](#) → Backend em Node.js com documentação no Swagger.  
+- 📊 [Dashboard de Dados em Python](#) → análise de dataset real com Pandas + visualização.  
+- 🤖 [Modelo de Machine Learning](#) → previsão simples de preços usando Scikit-learn.  
 
-Here are some ideas to get you started:
+*(mais projetos no meu repositório 👇)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--->
+
+## 📫 Como me encontrar
+- 🌐 [LinkedIn](#)  
+- 💌 E-mail: [seuemail@email.com]  
+<!--- 📂 Portfólio (se tiver site ou deploy no Vercel/Render)  
+
+--->
+
+⭐ Sempre aberto a aprender, colaborar em projetos e crescer na área de tecnologia.
